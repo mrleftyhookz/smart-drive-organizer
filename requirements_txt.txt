@@ -1,0 +1,13 @@
+# Core functionality - no external dependencies required
+# The tool works with Python standard library only
+
+# Optional enhancements for better user experience
+rich>=13.0.0          # Beautiful terminal UI, progress bars, tables
+pillow>=9.0.0         # Enhanced image metadata extraction
+
+# Development dependencies (for contributors)
+# Install with: pip install -r requirements-dev.txt
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
+# mypy>=0.950
