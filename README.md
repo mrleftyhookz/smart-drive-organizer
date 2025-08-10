@@ -151,7 +151,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/smart-drive-organizer/issues)
 - 💡 **Feature Requests**: [GitHub Discussions](https://github.com/yourusername/smart-drive-organizer/discussions)
-- 📧 **Contact**: [your.email@example.com]
+- 📧 **Contact**: [coreyfrancis1981@outlook.com]
 
 ---
 
